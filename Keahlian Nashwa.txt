@@ -1,4 +1,0 @@
-Keahlian saya 
-- Bisa berbahasa inggris 
-- Bisa membuat file laravel
-- Bisa bahasa pemrograman HTML, dan Java
